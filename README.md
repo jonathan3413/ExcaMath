@@ -1,0 +1,2 @@
+# ExcaMath
+Menghitung deret aritmatika
